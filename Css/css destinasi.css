@@ -113,3 +113,7 @@ body {
   margin-top: 60px;
   border-top: 1px solid #eaeaea;
 }
+
+.card a {
+  background-color: #00b4d8;
+}
